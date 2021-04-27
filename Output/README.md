@@ -116,3 +116,6 @@ This directory contains output from the various steps in the framework. This doc
 
 ### SOJO Results (`sojo_output/`)
 
+`all_betas.RData`
+: Source: *`eqtls/sojo/7._total_association_when_include_LD.R`*
+: A dataset of all variants containing the causal effects and total association values as given by SOJO. 
