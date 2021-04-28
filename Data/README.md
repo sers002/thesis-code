@@ -36,7 +36,7 @@ Source: ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/technical/working/20130606_samp
 
 `lung_eqtl_data` contains the eQTL results from GTEx after processing by the CoDeS3D pipeline. These files are output by the CoDeS3D pipeline using the GTEx GRCh38 dataset and Schmitt lung Hi-C data.
 
-Source:
+Source: O'Sullivan Lab (Liggins Institute)
 
 #### Files:
 
